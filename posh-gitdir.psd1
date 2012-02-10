@@ -8,4 +8,5 @@
     TypesToProcess="posh-gitdir.Types.ps1xml"
     FormatsToProcess="posh-gitdir.Format.ps1xml"
     ModuleToProcess="posh-gitdir.psm1"
+
 }
